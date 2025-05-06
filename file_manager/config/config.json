@@ -1,0 +1,7 @@
+{
+    "workspace": "./file_manager/workspace",
+    "quota": {
+        "default": 104857600,
+        "premium": 1073741824
+    }
+}
